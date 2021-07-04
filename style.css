@@ -5,7 +5,6 @@ body{
 }
 .start{
     padding-left: 50px;
-   
     margin-top: 25px;
     font-size: 70px;
     margin-right: 600px;
@@ -21,11 +20,37 @@ body{
     line-height: 30px;
 
 }
-button{
-  
+.b1{
+    height: 45px;
+    margin-top: 10px;
+    margin-right: 800px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right,#FF8A68,#FF6D50);
+
+}
+.b2{
     height: 45px;
     margin-top: 10px;
     border-radius: 10px;
     background-image: linear-gradient(to right,#FF8A68,#FF6D50);
+
+}
+
+.st3{
+    margin-top: 200px;
+    margin-left: 700px;
+    font-size: 25px;
+    line-height: 30px;
+    clear: right;
+
+}
+
+input{
+    height: 50px;
+    width: 50px;
+}
+.logo{
+    margin-top: 200px;
+    text-align: center;
 
 }
