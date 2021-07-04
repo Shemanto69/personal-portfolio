@@ -1,5 +1,7 @@
 body{
-   background-image: linear-gradient(to right, white, wheat);
+   background-image: url('https://wallpaperaccess.com/full/358836.jpg');
+   background-attachment: fixed;
+    background-repeat: no-repeat;
 
 
 }
@@ -20,6 +22,14 @@ body{
     line-height: 30px;
 
 }
+.st3{
+    margin-top: 200px;
+    margin-left: 700px;
+    font-size: 25px;
+    line-height: 30px;
+    clear: right;
+
+}
 .b1{
     height: 45px;
     margin-top: 10px;
@@ -35,16 +45,6 @@ body{
     background-image: linear-gradient(to right,#FF8A68,#FF6D50);
 
 }
-
-.st3{
-    margin-top: 200px;
-    margin-left: 700px;
-    font-size: 25px;
-    line-height: 30px;
-    clear: right;
-
-}
-
 input{
     height: 50px;
     width: 50px;
@@ -53,4 +53,40 @@ input{
     margin-top: 200px;
     text-align: center;
 
+}
+.sec{
+    display: flex;    
+}
+.exp1{
+    background-color: aliceblue;
+    box-shadow: 10px 10px 100px rgb(88, 88, 88);
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice:1;
+    height: 300px;
+    width: 600px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 10px;
+    line-height: 25px;
+}
+.exp2{
+    background-color: aliceblue;
+    box-shadow: 10px 10px 100px rgb(88, 88, 88);
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice:1;
+    height: 300px;
+    width: 600px;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 10px;
+    line-height: 25px;
+
+
+}
+footer{
+    text-align: center;
 }
