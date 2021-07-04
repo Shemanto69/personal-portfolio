@@ -8,15 +8,24 @@ body{
    
     margin-top: 25px;
     font-size: 70px;
-    margin-right: 200px;
+    margin-right: 600px;
+    margin-left: 50px;
     display: inline-block;
     clear: right;
     line-height: 90px;
 }
 .st2{
-    margin-right: 700px;
-
-    font-size: 30px;
+    margin-right: 800px;
+    margin-left: 100px;
+    font-size: 25px;
     line-height: 30px;
+
+}
+button{
+  
+    height: 45px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right,#FF8A68,#FF6D50);
 
 }
