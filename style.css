@@ -36,6 +36,7 @@ body{
     margin-right: 800px;
     border-radius: 10px;
     background-image: linear-gradient(to right,#FF8A68,#FF6D50);
+    cursor: pointer;
 
 }
 .b2{
@@ -43,6 +44,7 @@ body{
     margin-top: 10px;
     border-radius: 10px;
     background-image: linear-gradient(to right,#FF8A68,#FF6D50);
+    cursor: pointer;
 
 }
 input{
@@ -58,7 +60,7 @@ input{
     display: flex;    
 }
 .exp1{
-    background-color: aliceblue;
+    background-color: rgba(240, 248, 255, 0.651);
     box-shadow: 10px 10px 100px rgb(88, 88, 88);
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
@@ -72,7 +74,7 @@ input{
     line-height: 25px;
 }
 .exp2{
-    background-color: aliceblue;
+    background-color: rgba(240, 248, 255, 0.651);
     box-shadow: 10px 10px 100px rgb(88, 88, 88);
     border-left: 7px solid;
     border-image: linear-gradient(salmon, tomato);
